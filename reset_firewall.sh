@@ -24,3 +24,4 @@ echo ">>> Сохранение пустой конфигурации..."
 netfilter-persistent save
 
 echo ">>> Готово! Файрвол полностью сброшен. Все соединения разрешены."
+# sudo apt-get purge iptables-persistent -y
